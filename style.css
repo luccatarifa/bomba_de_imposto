@@ -1,0 +1,17 @@
+  h1 {
+    text-align: center;
+    color: green;
+    font-family:sans-serif;
+  }
+
+  body{
+    background-color: #ebe8e8;
+  }
+
+  p {
+    font-family: sans-serif;
+  }
+
+  img {
+    border-radius: 15px;
+  }
