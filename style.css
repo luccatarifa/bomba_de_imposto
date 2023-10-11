@@ -6,11 +6,6 @@
 
   body{
     background-color: #ebe8e8;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh;
-    margin: 0;
   }
 
   p {
@@ -30,3 +25,7 @@
   a {
     text-align: center;
   }
+
+    .centered button {
+        text-align: center;
+    }
