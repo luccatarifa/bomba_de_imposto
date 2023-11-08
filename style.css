@@ -35,3 +35,20 @@ h3 {
 body {
     background-color: #fff1cc;
 }
+
+.botao-padrao {
+    padding: 10px 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f0f0f0;
+    color: #333;
+    font-size: 16px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    transition: background-color 0.3s ease;
+}
+
+.botao-padrao:hover {
+    background-color: #ddd;
+}
