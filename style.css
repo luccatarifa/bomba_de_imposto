@@ -47,10 +47,13 @@ body {
     text-decoration: none;
     display: inline-block;
     transition: background-color 0.3s ease;
-    display: inline-block;
-    margin-right: 10px;
 }
 
 .botao-padrao:hover {
     background-color: #ddd;
+}
+
+.botao-central {
+    display: inline-block;
+    margin-right: 10px;
 }
